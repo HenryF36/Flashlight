@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HfFlashlight</string>
+    <string name="Welcome">Welcome to HfFlashlight</string>
+    <string name="Fon">Turn on flashlight</string>
+    <string name="Foff">Turn off flashlight</string>
+    <string name="What">---</string>
+</resources>
